@@ -21,7 +21,7 @@ const itemsSchema = new mongoose.Schema({
 const Item = mongoose.model("Item", itemsSchema);
 
 const item1 = new Item({
-  name: "books"
+  name: "bookss"
 });
 
 const item2 = new Item({
